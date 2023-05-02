@@ -17,5 +17,7 @@ END_PRINT
 (see START PRINT and END PRINT macros for sonic pad (based on klipper))
 
 
-settings in superslicer to print remote
-![Uploading image.png…]()
+settings in superslicer to print remote to the sonic pad
+
+https://github.com/realien-OG/sonicpad-super-slicer/blob/9d4be650b1bedc8e95989d541b4cc709b09f988d/super-slicer-remote-print-config.jpg
+
