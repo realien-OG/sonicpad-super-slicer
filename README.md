@@ -15,3 +15,7 @@ under printer settings | custom G-Code | End G-code
 END_PRINT
 
 (see START PRINT and END PRINT macros for sonic pad (based on klipper))
+
+
+settings in superslicer to print remote
+![Uploading image.png…]()
